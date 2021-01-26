@@ -1,0 +1,32 @@
+img{
+height: 200px;
+}
+h1{
+    text-align:center;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+h3{
+font-family: 'Nanum Gothic', sans-serif;
+}
+.Pics-container{
+    display:flex; 
+    justify-content:space-around; 
+    border: solid black 3px;  
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;  
+}
+.menu{
+    border:solid black 1px; 
+    padding: 2px;
+    background-color:yellow;
+}
+.songs{
+    display:flex;
+    justify-content:space-around;
+    border:solid blue 2px;
+}
+.quotables{
+    display:flex;
+}
